@@ -1,0 +1,124 @@
+@media screen and (min-width: 360px) {
+  body{
+  margin: 0;
+}
+.nav-container{
+  background-color: #000;
+  opacity:0.9;
+  width:100%;
+  position:absolute;
+  box-shadow: 1px 1px 5px 1px #42bff5;
+}
+.navbar-nav{
+  margin-left: auto;
+  font-family: 'Raleway', sans-serif;
+  align-items: center;
+  word-spacing: 10%;
+}
+.navbar-toggler:focus{
+  box-shadow: none;
+  }
+.nav-link:hover{
+  color:
+}
+.section_1{
+  height: 75vh;
+  background-color: #000;
+}
+#thumbnail_img{
+  height: 275px;
+  width: auto;
+  border: 5px solid #fff;
+  border-radius: 50vh;
+  margin-top: 25vh;
+}
+#name{
+  font-size: 75px;
+  font-family:sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  background: -webkit-linear-gradient(to right, #373b44,#4286f4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right,#733a40,#4286f4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.section_2{
+  height: 25vh;
+}
+#chris_tag{
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Helvetica;
+  text-align: center;
+  margin-top: 20vh;
+  font-style:italic;
+}
+.quote_auth{
+  text-align: right;
+  margin-right: 5vw;
+  font-size: 25px;
+}
+#container{
+  height: auto;
+  width: 100%;
+  border: 1px solid red;
+  }
+#title_con{
+  width:75%;
+  border:1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+}
+#title{
+  text-align: center;
+  font-weight: bold;
+  margin-top: 25px;
+}
+#img_con{
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#img1{
+  width: 75%;
+display:
+}
+#para_con{
+  width:90%;
+  border:1px solid white;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+  justify-content:center;
+}
+#para_1{
+  text-align: left;
+  font-size: 20px;
+}
+#p_con{
+  height: 500px;
+}
+.parallax {
+  background-image: url("https://www.cityam.com/wp-content/uploads/2019/05/chris-gardner-57ed74a91495a-57ed74a933565.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.parallax_2 {
+  background-image: url("https://wl-brightside.cf.tsp.li/resize/728x/jpg/d4c/481/58b04553dcb475e64ba9b7a36f.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+h4{
+  text-align: center;
+}
+#will{
+  width: 500px;
+}
+}
